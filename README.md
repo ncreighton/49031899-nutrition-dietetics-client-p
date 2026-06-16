@@ -1,2 +1,28 @@
-# 49031899-nutrition-dietetics-client-p
-You shouldn't need a developer on retainer for routine WordPress tasks to add powerful functionality to WordPress without writing code.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Nutrition &amp; Dietetics Client Portal — fully configured and ready to us
+# Nutrition & Dietetics Client Portal WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w14nh1B2k48FG0VecZs0M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w14nh1B2k48FG0VecZs0M)
+
